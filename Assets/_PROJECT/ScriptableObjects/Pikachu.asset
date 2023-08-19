@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa8d5ee6ce1e7e04dae43b4221c48226, type: 3}
+  m_Name: Pikachu
+  m_EditorClassIdentifier: 
+  _name: Pikachu
+  _id: 3
+  _health: 50
+  _level: 4
+  _usesLeft: 2
+  _prefab: {fileID: 8674133189712076750, guid: 2d45886b1153e604dbd429fbd484f2e6, type: 3}
+  weakness: 3
+  weaknessImage: {fileID: 21300000, guid: dd3125a2617429a4cadbb863620c0b78, type: 3}
+  strength: 2
+  strengthImage: {fileID: 21300000, guid: 955b0a44e01ebf742afeb5f89a700544, type: 3}
+  isSelected: 0
+  currentSprite: {fileID: 21300000, guid: 0a647944159770e439ff50d214f16b2c, type: 3}
