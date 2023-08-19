@@ -2,6 +2,10 @@
 
 # Pokemon Game
 
+
+https://github.com/alex18M/Alex_DemoProject/assets/76572279/059d4ac5-253e-4222-8dec-d35707e444e5
+
+
 Este es un juego de Pokemon donde puedes seleccionar un Pokemon de una lista y usarlo en diferentes partes del juego. Los Pokemon están definidos como objetos ScriptableObject y se pueden usar un máximo de 3 veces antes de ser destruidos automáticamente.
 
 ## Características
